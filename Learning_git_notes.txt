@@ -1,0 +1,4 @@
+1. PowerShell --> check install --> git --version
+2. Create a repository on github & copy url
+3. Check git is enabled from setting
+4. 
